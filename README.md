@@ -1,6 +1,6 @@
 # Fall 2023 Paleomagnetism Seminar
 
-Tuesday (time TBD) in McCone TBD
+Tuesday (1:30 to 3:00 pm) in McCone 401
 
 | Meeting Date | Reading/Prep | Discussion leader |
 |--------------|--------------|-------------------|
