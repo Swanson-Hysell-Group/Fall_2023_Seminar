@@ -9,7 +9,7 @@ Tuesday (1:30 to 3:00 pm) in McCone 401
 |09/12/23| Kulakov et al. (2021) Jurassic fast polar shift rejected by a new high-quality paleomagnetic pole from southwest Greenland https://doi.org/10.1016/j.gr.2021.05.021 | Diego |
 |09/19/23| Global APWP (discussion of: https://doi.org/10.1016/j.earscirev.2023.104547) and APWP-online.org (*discussion of Vaes et al. preprint*:  https://doi.org/10.31223/X5WD44) | Facu |
 |09/26/23| Cretaceous–Paleogene magnetostratigraphy (discussion of Fuentes et al. 2019: [https://doi.org/10.24872/rmgjournal.54.2.133](https://doi.org/10.24872/rmgjournal.54.2.133))| Anthony |
-|10/03/23| |  |
+|10/03/23| Work on Fuentes et al. data compilation for Mesozoic APWP https://github.com/PolarWandering/Mesozoic_APWP | Everyone |
 |10/10/23| GSA practice talk | Leah |
 
 Other Colorado Plateau rotation papers that we could discuss:
