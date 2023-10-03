@@ -11,6 +11,11 @@ Tuesday (1:30 to 3:00 pm) in McCone 401
 |09/26/23| Cretaceous–Paleogene magnetostratigraphy (discussion of Fuentes et al. 2019: [https://doi.org/10.24872/rmgjournal.54.2.133](https://doi.org/10.24872/rmgjournal.54.2.133))| Anthony |
 |10/03/23| Work on Fuentes et al. data compilation for Mesozoic APWP https://github.com/PolarWandering/Mesozoic_APWP | Everyone |
 |10/10/23| GSA practice talk | Leah |
+|10/17/23|  |  |
+|10/24/23|  |  |
+|10/31/23|  |  |
+|11/07/23| Mesozoic drift of the Wrangellia superterrane revisited: the way forward from paleomagnetic data https://eartharxiv.org/repository/view/5906/ | Goran Andjic (visiting researcher from University of Lausanne) |
+|11/14/23|  |  |
 
 Other Colorado Plateau rotation papers that we could discuss:
 
