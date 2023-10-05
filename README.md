@@ -16,6 +16,10 @@ Tuesday (1:30 to 3:00 pm) in McCone 401
 |10/31/23|  |  |
 |11/07/23| Mesozoic drift of the Wrangellia superterrane revisited: the way forward from paleomagnetic data https://eartharxiv.org/repository/view/5906/ | Goran Andjic (visiting researcher from University of Lausanne) |
 |11/14/23|  |  |
+|11/21/23|  |  |
+|11/28/23| Nick out of town giving UCLA seminar |  |
+|12/05/23| Leandro in town |  |
+|12/12/23| AGU week |  |
 
 Other Colorado Plateau rotation papers that we could discuss:
 
